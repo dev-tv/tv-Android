@@ -1,2 +1,1 @@
-# tv-Android
-Android samples
+# 1. GN
